@@ -13,7 +13,7 @@
  	opacity: 0.5;
  	filter: alpha(opacity=50); /* For IE8 and earlier */
 	padding-left: 10px;
-	color:blue;
+	color: black;
 	float: right;
 }
 p,h1{
